@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\PruebasTryCatch\PruebasTryCatch\bin\Debug\PruebasTryCatch.exe
+C:\Users\Usuario\source\repos\PruebasTryCatch\PruebasTryCatch\bin\Debug\PruebasTryCatch.pdb
+C:\Users\Usuario\source\repos\PruebasTryCatch\PruebasTryCatch\obj\Debug\PruebasTryCatch.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\PruebasTryCatch\PruebasTryCatch\obj\Debug\PruebasTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PruebasTryCatch\PruebasTryCatch\obj\Debug\PruebasTryCatch.exe
+C:\Users\Usuario\source\repos\PruebasTryCatch\PruebasTryCatch\obj\Debug\PruebasTryCatch.pdb
